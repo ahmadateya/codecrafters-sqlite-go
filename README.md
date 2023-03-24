@@ -1,4 +1,4 @@
-![progress-banner](https://codecrafters.io/landing/images/default_progress_banners/sqlite.png)
+[![progress-banner](https://app.codecrafters.io/progress/sqlite/d8247d13-8a34-4bb4-a333-48c7e9165f78)](https://app.codecrafters.io/users/ahmadateya)
 
 This is a starting point for Go solutions to the
 ["Build Your Own SQLite" Challenge](https://codecrafters.io/challenges/sqlite).
